@@ -12,7 +12,7 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}\\index.js", 
-            "args": ["${workspaceFolder}\\files\\A1test.xlsx"]
+            "args": ["${workspaceFolder}\\files\\A4_Pen-Testing.xlsx"]
         }, 
         {
             "type": "node",
@@ -23,7 +23,7 @@
             ],
             "program": "${workspaceFolder}\\index.js",
             "args": [
-                "${workspaceFolder}\\files\\A1test.xlsx", 
+                "${workspaceFolder}\\files\\A4_Pen-Testing.xlsx", 
                 "sliu353"
             ]
         }
